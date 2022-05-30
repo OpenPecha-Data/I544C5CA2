@@ -1,0 +1,26 @@
+id: I544C5CA2
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:53:31.940612'
+last_modified: '2022-05-30T20:53:31.940621'
+parser: null
+source_metadata:
+  title: Getse Mahāpaṇḍita Series
+  language: en
+  description: 'Texts by and about Getse Mahāpaṇḍita Gyurme Tsewang Chokdrup (‘gyur
+    med tshe dbang mchog grub, 1761–1829) of Katok:'
+  volume:
+    f9292:
+      title: 'Precise Discernment of Dharmas: A Catalogue of the Complete Collected
+        Works of the Omniscient King of Dharma, Rigdzin Jigme Lingpa'
+      base_file: f9292.txt
+      order: 1
+      parent: Catalogues
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
